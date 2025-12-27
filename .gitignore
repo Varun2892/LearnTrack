@@ -1,0 +1,13 @@
+# Compiled Java output
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
